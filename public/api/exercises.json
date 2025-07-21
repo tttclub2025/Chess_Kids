@@ -1,0 +1,29 @@
+[
+    {
+      "id": 101,
+      "lesson_id": 1,
+      "title": "Scholar's Mate",
+      "imageUrl": "https://images.chesscomfiles.com/uploads/v1/article/13354/104185_1200x675.d5d9c22e032f.png",
+      "pgn": "1. e4 e5 2. Qh5 Nc6 3. Bc4 Nf6 4. Qxf7#",
+      "mediaType": "video",
+      "completionMediaUrl": "/videos/cau-chuyen-chien-thang-1.mp4"
+    },
+    {
+      "id": 102,
+      "lesson_id": 1,
+      "title": "Italian Game Intro",
+      "imageUrl": "https://www.chess.com/chess-themes/sites/default/files/2020-04/Italian-Game.png",
+      "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5",
+      "mediaType": null,
+      "completionMediaUrl": null
+    },
+    {
+      "id": 201,
+      "lesson_id": 2,
+      "title": "Đòn Xiên (Skewer)",
+      "imageUrl": "https://images.chesscomfiles.com/uploads/v1/images_files/31660_image_500x500.67139169.png",
+      "pgn": "r1b1k2r/pppp1ppp/2n5/2b1p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 1 4. Bxf7+ Kxf7 5. Qh5+ g6 6. Qf3+",
+      "mediaType": "audio",
+      "completionMediaUrl": "/audio/giai-thich-don-xien.mp3"
+    }
+  ]
